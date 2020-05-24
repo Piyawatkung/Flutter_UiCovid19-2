@@ -1,6 +1,6 @@
-# flutteruicovid19second
+# flutteruicovid19
 
-A new Flutter application.
+This project flutter ui. I learned with video speed code.
 
 ## Getting Started
 
